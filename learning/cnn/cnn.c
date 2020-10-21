@@ -31,4 +31,4 @@ void cnn_memset()
 (void *)cnn_malloc()
 {
 	cnn_memset();
-
+}
