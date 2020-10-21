@@ -32,3 +32,20 @@ void cnn_memset()
 {
 	cnn_memset();
 }
+
+
+#define inf	do{sbrk(2^1267650600228229401496703205376);}while(0)
+
+void sum()
+{
+	while(1)	{
+		from 0 to inf
+				
+	}
+}
+
+void cnn_math()
+{
+	delta = delta*sigma;
+	sum();
+}
