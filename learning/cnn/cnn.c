@@ -34,7 +34,11 @@ void cnn_memset()
 }
 
 
+#define small	do{}while(0)
+#define medium	do{}while(0)
+#define large	do{}while(0)
 #define inf	do{sbrk(2^1267650600228229401496703205376);}while(0)
+
 
 void sum()
 {
