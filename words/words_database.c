@@ -74116,5 +74116,25885 @@ void english()
 
 	} else if(word[][]==)	{
 
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
+	} else if(word[][]==)	{
+
 	}
 }
