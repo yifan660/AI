@@ -9,8 +9,12 @@ int main()
 
 cnn_memset()
 {
-	while(1)	{
-
+	if()	{
+		mem[i-5] = info;
+		size+=10;
+		sblock = 100;
+	} else if()	{
+		sbrk;		
 	}
 }
 
